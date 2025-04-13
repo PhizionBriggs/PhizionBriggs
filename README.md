@@ -1,10 +1,11 @@
-## Hi there 👋
+# 👨🏾‍💻Phizion Briggs 
 
-<!--
-**PhizionBriggs/PhizionBriggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**` Entry Digital Developer `**
 
+I’m an aspiring software developer with a genuine love for technology and problem-solving. Ever since I was young, I’ve been curious about how things work behind the scenes—whether it was tinkering with gadgets or trying to understand how websites function. Discovering coding felt like unlocking a superpower; it gave me a way to bring ideas to life and solve real problems. What I really enjoy about software development is that it’s not just about logic—it’s also about creativity, collaboration, and constantly learning something new. I’m excited to keep growing, take on meaningful projects, and hopefully make a positive impact through the work I do.
+
+<p align="left"> 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
